@@ -1,0 +1,1 @@
+it is a simple theater seat booking webpage in which we can able to choose the movie and can able to choose the seats,in that it has already booked seats whichbare previously mentioned . it gives the total amount for seats by calculating the movie ticket price with number of seats needed.
